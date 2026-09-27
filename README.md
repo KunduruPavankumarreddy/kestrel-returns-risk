@@ -74,5 +74,4 @@ See `reports/evidence.md` for the exact fold metrics, threshold table, data-qual
 
 The supplied Kestrel data is client data. Keep this repository private and do not publish the CSVs or policy document.
 
-AUTHOR
-KUNDURU PAVAN KUMAR REDDY
+
